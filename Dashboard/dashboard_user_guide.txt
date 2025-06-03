@@ -2,7 +2,7 @@
 
 ## How to Use the Interactive Dashboard
 
-1. **Download**: Click on `interactive_financial_dashboard.html`
+1. **Download**: Click on `financial_dashboard.html`
 2. **Save**: Right-click → "Save link as" → Save to your computer
 3. **Open**: Double-click the downloaded file to open in your browser
 4. **Interact**: 
