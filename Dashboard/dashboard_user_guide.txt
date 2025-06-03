@@ -1,0 +1,19 @@
+# Interactive Dashboard User Guide
+
+## How to Use the Interactive Dashboard
+
+1. **Download**: Click on `interactive_financial_dashboard.html`
+2. **Save**: Right-click → "Save link as" → Save to your computer
+3. **Open**: Double-click the downloaded file to open in your browser
+4. **Interact**: 
+   - Hover over charts for detailed data
+   - Use zoom and pan features
+   - Click legend items to show/hide data series
+   - Use dropdown menus for filtering
+
+## Dashboard Features
+- Real-time portfolio performance tracking
+- Interactive risk-return analysis
+- Dynamic correlation heatmaps
+- Sector allocation visualization
+- Volatility clustering analysis
