@@ -91,7 +91,6 @@ tickers = ['AAPL', 'GOOGL', 'MSFT', 'AMZN', 'TSLA', 'JPM', 'GS', 'BLK']
 | **Maximum Drawdown** | -15.2% | -18.7% | +3.5% |
 
 ### **2. Risk-Return Optimization**
-- **Efficient Frontier**: 50+ optimal portfolio combinations
 - **Risk Budgeting**: Contribution analysis by asset class
 - **Downside Protection**: Tail risk management strategies
 - **Correlation Benefits**: Diversification effectiveness measurement
